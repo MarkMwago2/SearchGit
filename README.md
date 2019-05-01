@@ -16,6 +16,7 @@ You will need a browser to run this site because it entirely depends on a server
 
 #### Technologies Used
 
+Angular
 HTML
 CSS
 Javascript and 
